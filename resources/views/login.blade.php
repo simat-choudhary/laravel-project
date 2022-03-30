@@ -1,4 +1,4 @@
-@extends('master')
+@extends('main')
 @section('content')
 <div class="container custom-login">
 	<h1 class="text-dark text-center mb-5">Login</h1>
